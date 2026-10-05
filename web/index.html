@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Today's HI | Biaani's AI Radar</title>
+  <meta name="description" content="Personalized 24-hour AI news radar for Biaani tracking Ben's Bites and The AI Rundown.">
+  <link rel="icon" type="image/png" href="/DesignGuidelines/glitter_logo.png">
+  
+  <!-- Google Fonts: Outfit & Plus Jakarta Sans (Geometric Rounded aesthetic) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="dashboard-body">
+
+  <div class="app-layout">
+    
+    <!-- LEFT NAVIGATION RAIL -->
+    <aside class="nav-rail" id="navRail">
+      <div class="rail-top">
+        <a href="#" class="brand-logo-container" title="Today's AI News • Biaani's Radar">
+          <img src="/DesignGuidelines/glitter_logo.png" alt="Glitter AI Logo" class="brand-glitter-logo">
+          <span class="logo-glow"></span>
+        </a>
+      </div>
+
+      <nav class="rail-menu">
+        <button class="rail-btn active" data-tab="all" id="tabNavAll" title="All Articles">
+          <svg class="rail-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <rect x="3" y="3" width="7" height="7" rx="2"></rect>
+            <rect x="14" y="3" width="7" height="7" rx="2"></rect>
+            <rect x="14" y="14" width="7" height="7" rx="2"></rect>
+            <rect x="3" y="14" width="7" height="7" rx="2"></rect>
+          </svg>
+        </button>
+
+        <button class="rail-btn" data-tab="24h" id="tabNav24h" title="Last 24 Hours">
+          <svg class="rail-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon>
+          </svg>
+          <span class="rail-badge-dot" id="badgeDot24h"></span>
+        </button>
+
+        <button class="rail-btn" data-tab="saved" id="tabNavSaved" title="Saved Bookmarks">
+          <svg class="rail-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path>
+          </svg>
+          <span class="rail-badge-count" id="savedCountBadge">0</span>
+        </button>
+
+
+      </nav>
+    </aside>
+
+    <!-- CENTER NEWS FEED CANVAS -->
+    <main class="feed-canvas">
+      
+      <!-- TOP SEARCH & STATUS BAR -->
+      <header class="top-bar">
+        <div class="search-pill-wrapper">
+          <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+          <input 
+            type="text" 
+            id="searchInput" 
+            class="search-input" 
+            placeholder="Search AI breakthroughs, models, agents..." 
+            autocomplete="off"
+            spellcheck="false"
+          >
+          <button class="search-clear-btn" id="searchClearBtn" title="Clear search" style="display: none;">✕</button>
+          <span class="search-kbd">⌘K</span>
+        </div>
+
+        <div class="top-actions">
+          <div class="status-pill" id="syncStatusPill" title="Automated 24h ingestion cycle">
+            <span class="live-dot"></span>
+            <span class="status-text" id="syncStatusText">Synced</span>
+          </div>
+
+          <button class="sync-action-btn" id="btnSyncHeader" title="Trigger Pipeline Sync">
+            <svg class="sync-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"></path>
+            </svg>
+            <span>Sync Now</span>
+          </button>
+
+          <div class="user-chip">
+            <img src="/DesignGuidelines/glitter_logo.png" alt="Profile" class="user-avatar-glitter">
+            <div class="user-details">
+              <span class="user-name">Biaani</span>
+              <span class="user-role">Personal Radar</span>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <!-- HERO SPOTLIGHT CARD -->
+      <section class="hero-spotlight" id="heroSpotlight">
+        <div class="hero-content">
+          <button class="hero-tag" id="heroTagBtn" title="Filter Today's AI News">
+            <span class="sparkle">✨</span>
+            <span>TODAY'S AI NEWS</span>
+          </button>
+          <h1 class="hero-title" id="heroTitle">
+            Hey Biaani, ready for today's AI dispatches?
+          </h1>
+          <div class="hero-buttons">
+            <button class="hero-btn primary" id="heroExploreBtn">
+              Read Top Story
+            </button>
+            <button class="hero-btn secondary" id="heroFilter24hBtn">
+              View Last 24 Hours (<span id="hero24hCount">0</span>)
+            </button>
+          </div>
+        </div>
+        
+        <div class="hero-visual">
+          <div class="hero-sculpture-card">
+            <img src="/DesignGuidelines/glitter_logo.png" alt="Glitter AI Spotlight" class="hero-glitter-img">
+            <div class="hero-glow-sphere"></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- TRENDING SOURCES ROW (Avatar Pills) -->
+      <section class="sources-section">
+        <div class="section-header">
+          <h2 class="section-title">Trending Sources</h2>
+          <span class="section-subtitle">Click to filter source dispatches</span>
+        </div>
+
+        <div class="sources-avatar-row" id="sourcesAvatarRow">
+          <!-- Populated by JavaScript -->
+        </div>
+      </section>
+
+      <!-- MAIN DISPATCHES HEADER & FILTER TABS -->
+      <section class="dispatches-section">
+        <div class="dispatches-header">
+          <div class="title-with-count">
+            <h2 class="section-title">Latest Dispatches</h2>
+            <span class="stream-counter" id="streamCounter">0 articles</span>
+            <span class="search-feedback-badge" id="searchFeedbackBadge" style="display: none;"></span>
+          </div>
+
+          <div class="category-tabs" id="categoryTabs">
+            <button class="cat-tab active" data-filter="all">All</button>
+            <button class="cat-tab" data-filter="24h">🔥 Last 24h</button>
+            <button class="cat-tab" data-filter="saved">⭐ Saved</button>
+            <button class="cat-tab" data-filter="Agents">Agents</button>
+            <button class="cat-tab" data-filter="LLMs">LLMs</button>
+            <button class="cat-tab" data-filter="Robotics">Robotics</button>
+          </div>
+        </div>
+
+        <!-- MAIN ARTICLE GRID -->
+        <div class="articles-grid" id="articlesGrid">
+          <!-- Injected dynamically via app.js -->
+        </div>
+
+        <!-- EMPTY STATE -->
+        <div class="empty-state" id="emptyState" style="display: none;">
+          <div class="empty-icon">✨</div>
+          <h3 class="empty-title">No articles match your filter</h3>
+          <p class="empty-desc">Try clearing your search query or selecting a different category tab.</p>
+          <button class="reset-filter-btn" id="btnResetFilters">Reset Filters</button>
+        </div>
+      </section>
+
+    </main>
+  </div>
+
+  <!-- TOAST NOTIFICATION CONTAINER -->
+  <div class="toast-container" id="toastContainer"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>

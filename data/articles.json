@@ -1,0 +1,742 @@
+{
+  "last_sync": "2026-10-05T18:10:35.056155+00:00",
+  "total_articles": 28,
+  "sources_active": [
+    "Ben's Bites",
+    "The AI Rundown"
+  ],
+  "articles": [
+    {
+      "id": "3b8dcc10396e6831",
+      "source": {
+        "id": "the_ai_rundown",
+        "name": "The AI Rundown",
+        "badge_color": "#664A52"
+      },
+      "title": "An OpenAI safety insider calls the culture 'broken'",
+      "url": "https://www.therundown.ai/articles/an-openai-safety-insider-calls-the-culture-broken",
+      "summary": "Category: AI. Meta: Zach Mink \u2022 7 minutes. Read full article at https://www.therundown.ai/articles/an-openai-safety-insider-calls-the-culture-broken",
+      "published_at": "2026-10-05T09:00:00+00:00",
+      "released_date": "Oct 05, 2026",
+      "released_time": "09:00 UTC",
+      "released_full": "Oct 05, 2026 \u2022 09:00 UTC",
+      "is_last_24h": true,
+      "tags": [
+        "AI Safety",
+        "Industry",
+        "AI"
+      ],
+      "reading_time_mins": 1,
+      "thumbnail_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/117f01c1-f36b-40f7-ba8d-c8d18bb0835b/safetylead.png?t=1791139795",
+      "author": "Zach Mink",
+      "is_saved": true,
+      "saved_at": "2026-10-05T15:39:46.392435+00:00"
+    },
+    {
+      "id": "ed95698c8257a0c5",
+      "source": {
+        "id": "the_ai_rundown",
+        "name": "The AI Rundown",
+        "badge_color": "#664A52"
+      },
+      "title": "Apple's 'no-video' security camera",
+      "url": "https://www.therundown.ai/articles/apple-no-video-security-camera",
+      "summary": "Category: Tech. Meta: Jennifer Mossalgue \u2022 6 minutes. Read full article at https://www.therundown.ai/articles/apple-no-video-security-camera",
+      "published_at": "2026-10-02T14:34:09+00:00",
+      "released_date": "Oct 02, 2026",
+      "released_time": "14:34 UTC",
+      "released_full": "Oct 02, 2026 \u2022 14:34 UTC",
+      "is_last_24h": false,
+      "tags": [
+        "Industry",
+        "Tech"
+      ],
+      "reading_time_mins": 1,
+      "thumbnail_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/da30bdab-eefd-450f-89db-0161836e8d81/Someone_Entered_the_Room_Alert.png?t=1790945985",
+      "author": "Jennifer Mossalgue",
+      "is_saved": true,
+      "saved_at": "2026-10-05T17:44:59.596229+00:00"
+    },
+    {
+      "id": "10e0d8780b19fd4b",
+      "source": {
+        "id": "the_ai_rundown",
+        "name": "The AI Rundown",
+        "badge_color": "#664A52"
+      },
+      "title": "Tavus' AI looks, listens, and talks back live",
+      "url": "https://www.therundown.ai/articles/tavus-ai-looks-listens-and-talks-back-live",
+      "summary": "Category: AI. Meta: Zach Mink \u2022 8 minutes. Read full article at https://www.therundown.ai/articles/tavus-ai-looks-listens-and-talks-back-live",
+      "published_at": "2026-10-02T09:00:00+00:00",
+      "released_date": "Oct 02, 2026",
+      "released_time": "09:00 UTC",
+      "released_full": "Oct 02, 2026 \u2022 09:00 UTC",
+      "is_last_24h": false,
+      "tags": [
+        "Industry",
+        "AI"
+      ],
+      "reading_time_mins": 1,
+      "thumbnail_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/db0d14b7-ad27-46d5-bd15-f17c0a4293e1/tavus.png?t=1790885573",
+      "author": "Zach Mink",
+      "is_saved": false,
+      "saved_at": null
+    },
+    {
+      "id": "79194a88bd527bfe",
+      "source": {
+        "id": "the_ai_rundown",
+        "name": "The AI Rundown",
+        "badge_color": "#664A52"
+      },
+      "title": "DoorDash puts its own drone on the menu",
+      "url": "https://www.therundown.ai/articles/doordash-puts-its-own-drone-on-the-menu",
+      "summary": "Category: Robotics. Meta: Jennifer Mossalgue \u2022 6 minutes. Read full article at https://www.therundown.ai/articles/doordash-puts-its-own-drone-on-the-menu",
+      "published_at": "2026-10-01T14:30:00+00:00",
+      "released_date": "Oct 01, 2026",
+      "released_time": "14:30 UTC",
+      "released_full": "Oct 01, 2026 \u2022 14:30 UTC",
+      "is_last_24h": false,
+      "tags": [
+        "Robotics",
+        "Industry"
+      ],
+      "reading_time_mins": 1,
+      "thumbnail_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/0ce573a0-ed64-4bd3-9bed-94a7db6b8819/Drone_blanc_sur_fond_rouge_profond.jpg?t=1790858481",
+      "author": "Jennifer Mossalgue",
+      "is_saved": false,
+      "saved_at": null
+    },
+    {
+      "id": "d39329af8ebd63eb",
+      "source": {
+        "id": "bens_bites",
+        "name": "Ben's Bites",
+        "badge_color": "#FFB9CD"
+      },
+      "title": "OpenAI DevDay 2026",
+      "url": "https://www.bensbites.com/p/openai-devday-2026",
+      "summary": "is Gemini making a comeback? Hi folks, I'm in sf till Sunday. I wanna meet folks talk about ai with non-technical adoption builders doing fun shit founders working on dev tools/infra potential LPs (individuals) go to deli board reach out on...",
+      "published_at": "2026-10-01T13:30:36+00:00",
+      "released_date": "Oct 01, 2026",
+      "released_time": "13:30 UTC",
+      "released_full": "Oct 01, 2026 \u2022 13:30 UTC",
+      "is_last_24h": false,
+      "tags": [
+        "Agents",
+        "LLMs",
+        "Industry"
+      ],
+      "reading_time_mins": 4,
+      "thumbnail_url": "https://substack-post-media.s3.amazonaws.com/public/images/69be8a5b-6c52-4fb8-adbd-a460f8aeb176_3350x1606.png",
+      "author": "Ben Tossell",
+      "is_saved": false,
+      "saved_at": null
+    },
+    {
+      "id": "9dd88949f278adb3",
+      "source": {
+        "id": "the_ai_rundown",
+        "name": "The AI Rundown",
+        "badge_color": "#664A52"
+      },
+      "title": "Argon aims to return Google to the frontier",
+      "url": "https://www.therundown.ai/articles/argon-aims-to-return-google-to-the-frontier",
+      "summary": "Category: AI. Meta: Zach Mink \u2022 8 minutes. Read full article at https://www.therundown.ai/articles/argon-aims-to-return-google-to-the-frontier",
+      "published_at": "2026-10-01T09:00:00+00:00",
+      "released_date": "Oct 01, 2026",
+      "released_time": "09:00 UTC",
+      "released_full": "Oct 01, 2026 \u2022 09:00 UTC",
+      "is_last_24h": false,
+      "tags": [
+        "LLMs",
+        "Industry",
+        "AI"
+      ],
+      "reading_time_mins": 1,
+      "thumbnail_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/722e8864-0121-48ea-9269-6cc3b58246e8/g4_30-09-26_key-art_blog.width-2200.format-webp.webp?t=1790810560",
+      "author": "Zach Mink",
+      "is_saved": false,
+      "saved_at": null
+    },
+    {
+      "id": "6008e9db2908df86",
+      "source": {
+        "id": "the_ai_rundown",
+        "name": "The AI Rundown",
+        "badge_color": "#664A52"
+      },
+      "title": "OpenAI connects the dots on always-on agents",
+      "url": "https://www.therundown.ai/articles/openai-connects-the-dots-on-always-on-agents",
+      "summary": "Category: AI. Meta: Zach Mink \u2022 7 minutes. Read full article at https://www.therundown.ai/articles/openai-connects-the-dots-on-always-on-agents",
+      "published_at": "2026-09-30T09:00:00+00:00",
+      "released_date": "Sep 30, 2026",
+      "released_time": "09:00 UTC",
+      "released_full": "Sep 30, 2026 \u2022 09:00 UTC",
+      "is_last_24h": false,
+      "tags": [
+        "Agents",
+        "Industry",
+        "AI"
+      ],
+      "reading_time_mins": 1,
+      "thumbnail_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/8d87f31a-e684-43f5-91f9-acc842eeeab9/dots.png?t=1790717422",
+      "author": "Zach Mink",
+      "is_saved": true,
+      "saved_at": "2026-10-05T15:47:52.446978+00:00"
+    },
+    {
+      "id": "a108630c84944e31",
+      "source": {
+        "id": "the_ai_rundown",
+        "name": "The AI Rundown",
+        "badge_color": "#664A52"
+      },
+      "title": "SpaceX's $15B megarocket finally delivers",
+      "url": "https://www.therundown.ai/articles/spacex-s-15b-megarocket-finally-delivers",
+      "summary": "Category: Tech. Meta: Jennifer Mossalgue \u2022 6 minutes. Read full article at https://www.therundown.ai/articles/spacex-s-15b-megarocket-finally-delivers",
+      "published_at": "2026-09-29T14:30:00+00:00",
+      "released_date": "Sep 29, 2026",
+      "released_time": "14:30 UTC",
+      "released_full": "Sep 29, 2026 \u2022 14:30 UTC",
+      "is_last_24h": false,
+      "tags": [
+        "Robotics",
+        "Industry",
+        "Tech"
+      ],
+      "reading_time_mins": 1,
+      "thumbnail_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/491c6e9f-2213-431c-a61c-3f516980cb63/te%CC%81le%CC%81chargement__1_.jpeg?t=1790671332",
+      "author": "Jennifer Mossalgue",
+      "is_saved": false,
+      "saved_at": null
+    },
+    {
+      "id": "14f7ddb17512538e",
+      "source": {
+        "id": "bens_bites",
+        "name": "Ben's Bites",
+        "badge_color": "#FFB9CD"
+      },
+      "title": "Sonnet 5.5 is worth a try",
+      "url": "https://www.bensbites.com/p/sonnet-55-is-worth-a-try",
+      "summary": "Manus vs Muse and examples for computer use Hi folks, I'll be at OpenAI DevDay today. If you're there, come say hi - I have pink shoes on. Sam says they've \" found a new thing \". I have the embargo of all the things they're launching but I'...",
+      "published_at": "2026-09-29T13:01:15+00:00",
+      "released_date": "Sep 29, 2026",
+      "released_time": "13:01 UTC",
+      "released_full": "Sep 29, 2026 \u2022 13:01 UTC",
+      "is_last_24h": false,
+      "tags": [
+        "Agents",
+        "LLMs",
+        "Open Source",
+        "AI Safety"
+      ],
+      "reading_time_mins": 4,
+      "thumbnail_url": "https://substack-post-media.s3.amazonaws.com/public/images/cbfdc44c-0e12-4d49-8821-efcac0853425_1536x1024.png",
+      "author": "Ben Tossell",
+      "is_saved": false,
+      "saved_at": null
+    },
+    {
+      "id": "027d61a096486044",
+      "source": {
+        "id": "the_ai_rundown",
+        "name": "The AI Rundown",
+        "badge_color": "#664A52"
+      },
+      "title": "Anthropic's mid-tier Claude climbs the rankings",
+      "url": "https://www.therundown.ai/articles/anthropic-mid-tier-claude-climbs-the-rankings",
+      "summary": "Category: AI. Meta: Zach Mink \u2022 7 minutes. Read full article at https://www.therundown.ai/articles/anthropic-mid-tier-claude-climbs-the-rankings",
+      "published_at": "2026-09-29T09:00:00+00:00",
+      "released_date": "Sep 29, 2026",
+      "released_time": "09:00 UTC",
+      "released_full": "Sep 29, 2026 \u2022 09:00 UTC",
+      "is_last_24h": false,
+      "tags": [
+        "LLMs",
+        "Industry",
+        "AI"
+      ],
+      "reading_time_mins": 1,
+      "thumbnail_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/454bf8cf-20f8-4482-813e-a24933c883b1/sonnet.png?t=1790629156",
+      "author": "Zach Mink",
+      "is_saved": false,
+      "saved_at": null
+    },
+    {
+      "id": "2c9a7f5cf7155b05",
+      "source": {
+        "id": "bens_bites",
+        "name": "Ben's Bites",
+        "badge_color": "#FFB9CD"
+      },
+      "title": "50 years of tech devices",
+      "url": "https://www.bensbites.com/p/50-years-of-tech-devices",
+      "summary": "Ben's session #7 Hello again :) I went to Legoland yesterday with the kids - very impressive to see all the cities they've built with lego. Who's job is that?! Sorry I missed last week - I'm nearly done with my talk prep and the first bath...",
+      "published_at": "2026-09-25T13:50:24+00:00",
+      "released_date": "Sep 25, 2026",
+      "released_time": "13:50 UTC",
+      "released_full": "Sep 25, 2026 \u2022 13:50 UTC",
+      "is_last_24h": false,
+      "tags": [
+        "Agents",
+        "LLMs",
+        "Robotics",
+        "Industry"
+      ],
+      "reading_time_mins": 4,
+      "thumbnail_url": "https://substackcdn.com/image/fetch/$s_!3WGO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0ddc8c8-7222-45db-aeba-51a40c74653d_800x644.gif",
+      "author": "Ben Tossell",
+      "is_saved": false,
+      "saved_at": null
+    },
+    {
+      "id": "fd54812f164c816f",
+      "source": {
+        "id": "bens_bites",
+        "name": "Ben's Bites",
+        "badge_color": "#FFB9CD"
+      },
+      "title": "Back to Claude",
+      "url": "https://www.bensbites.com/p/back-to-claude",
+      "summary": "GPT-6 Sol and Luna got cheaper Hi folks, Keshav here. Ben's travelling today, so you're stuck with me. We have three new models to talk about: Claude Opus 5.5 - it's the \"one model to rule them all\" at this moment. Better than Fable 5.1 on...",
+      "published_at": "2026-09-24T13:04:08+00:00",
+      "released_date": "Sep 24, 2026",
+      "released_time": "13:04 UTC",
+      "released_full": "Sep 24, 2026 \u2022 13:04 UTC",
+      "is_last_24h": false,
+      "tags": [
+        "Agents",
+        "LLMs",
+        "Industry"
+      ],
+      "reading_time_mins": 4,
+      "thumbnail_url": "https://substack-post-media.s3.amazonaws.com/public/images/98d6828b-adbf-48e8-a721-9f1c87c0acd2_1582x914.png",
+      "author": "Ben Tossell",
+      "is_saved": false,
+      "saved_at": null
+    },
+    {
+      "id": "6738f3ceabaa304f",
+      "source": {
+        "id": "bens_bites",
+        "name": "Ben's Bites",
+        "badge_color": "#FFB9CD"
+      },
+      "title": "What can you build with Jev",
+      "url": "https://www.bensbites.com/p/what-can-you-build-with-jev",
+      "summary": "Muse is off to a good start Hi folks, Do you remember the site I one-shot with all the &#8216;forgotten devices' of the past? Things like the tamogotchi, furby, walkman, og playstation, etc. Well I finally did something with it. bentossell....",
+      "published_at": "2026-09-22T13:01:13+00:00",
+      "released_date": "Sep 22, 2026",
+      "released_time": "13:01 UTC",
+      "released_full": "Sep 22, 2026 \u2022 13:01 UTC",
+      "is_last_24h": false,
+      "tags": [
+        "Agents",
+        "LLMs",
+        "Robotics"
+      ],
+      "reading_time_mins": 2,
+      "thumbnail_url": "https://substack-post-media.s3.amazonaws.com/public/images/4e390903-da61-44c0-875a-c2118f6839a8_2974x1484.png",
+      "author": "Ben Tossell",
+      "is_saved": false,
+      "saved_at": null
+    },
+    {
+      "id": "d3cb423779ff8236",
+      "source": {
+        "id": "bens_bites",
+        "name": "Ben's Bites",
+        "badge_color": "#FFB9CD"
+      },
+      "title": "New home for Cowork",
+      "url": "https://www.bensbites.com/p/new-home-for-cowork",
+      "summary": "the successor of LLMs Hi folks, I've not been building as much this week &#128556; - hand, foot and mouth is back in our house (happens yearly with 3 young kids!), and I have to get prep done for my Stanford talk on the 28th - they invited...",
+      "published_at": "2026-09-17T13:02:21+00:00",
+      "released_date": "Sep 17, 2026",
+      "released_time": "13:02 UTC",
+      "released_full": "Sep 17, 2026 \u2022 13:02 UTC",
+      "is_last_24h": false,
+      "tags": [
+        "Agents",
+        "LLMs",
+        "Open Source",
+        "Industry"
+      ],
+      "reading_time_mins": 4,
+      "thumbnail_url": "https://substack-post-media.s3.amazonaws.com/public/images/57242a26-ad70-4df7-8b68-28392ccc050c_1672x941.png",
+      "author": "Ben Tossell",
+      "is_saved": false,
+      "saved_at": null
+    },
+    {
+      "id": "b76e0dae669e83a2",
+      "source": {
+        "id": "bens_bites",
+        "name": "Ben's Bites",
+        "badge_color": "#FFB9CD"
+      },
+      "title": "Good luck slowing this down",
+      "url": "https://www.bensbites.com/p/good-luck-slowing-this-down",
+      "summary": "plus what's new in AI this week Hi folks, How tf do I write an intro to the craziness that's happened since the end of last week?! I got access to Instinct, the personal agent all the VCs are raving about - I think it's a bit meh? I don't k...",
+      "published_at": "2026-09-15T13:02:52+00:00",
+      "released_date": "Sep 15, 2026",
+      "released_time": "13:02 UTC",
+      "released_full": "Sep 15, 2026 \u2022 13:02 UTC",
+      "is_last_24h": false,
+      "tags": [
+        "Agents",
+        "LLMs",
+        "Open Source",
+        "AI Safety"
+      ],
+      "reading_time_mins": 3,
+      "thumbnail_url": "https://substack-post-media.s3.amazonaws.com/public/images/4a0526eb-8b6f-4f95-a314-3f131bc83f28_1536x1024.png",
+      "author": "Ben Tossell",
+      "is_saved": false,
+      "saved_at": null
+    },
+    {
+      "id": "07d50b9cc4ae2679",
+      "source": {
+        "id": "bens_bites",
+        "name": "Ben's Bites",
+        "badge_color": "#FFB9CD"
+      },
+      "title": "Telling AI to design is hard",
+      "url": "https://www.bensbites.com/p/telling-ai-to-design-is-hard",
+      "summary": "Ben's session #6 Hello again :) I actually built a tool I want to use - you may find it helpful too. Explaining design styles/layouts/components is a nightmare for non-designers, they have their own language. So I wanted to build a site wit...",
+      "published_at": "2026-09-11T13:07:26+00:00",
+      "released_date": "Sep 11, 2026",
+      "released_time": "13:07 UTC",
+      "released_full": "Sep 11, 2026 \u2022 13:07 UTC",
+      "is_last_24h": false,
+      "tags": [
+        "Agents",
+        "LLMs"
+      ],
+      "reading_time_mins": 3,
+      "thumbnail_url": "https://substackcdn.com/image/fetch/$s_!dG1W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2098397212111937536.jpg",
+      "author": "Ben Tossell",
+      "is_saved": false,
+      "saved_at": null
+    },
+    {
+      "id": "e6936e42c6e9ce1c",
+      "source": {
+        "id": "bens_bites",
+        "name": "Ben's Bites",
+        "badge_color": "#FFB9CD"
+      },
+      "title": "Everyone needs a Muse",
+      "url": "https://www.bensbites.com/p/everyone-needs-a-muse",
+      "summary": "ChatGPT images got better, again Hey folks, We had some reports of ending up in spam &#128557; - so if you add us as a contact in Gmail, that shouldn't happen. You'll have seen me building a ton but I want to know what you all actually want...",
+      "published_at": "2026-09-10T13:03:34+00:00",
+      "released_date": "Sep 10, 2026",
+      "released_time": "13:03 UTC",
+      "released_full": "Sep 10, 2026 \u2022 13:03 UTC",
+      "is_last_24h": false,
+      "tags": [
+        "Agents",
+        "LLMs",
+        "Open Source",
+        "AI Safety"
+      ],
+      "reading_time_mins": 4,
+      "thumbnail_url": "https://substackcdn.com/image/fetch/$s_!78f8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd42a294-6420-48b0-a759-61fc0642c82f_3164x1946.png",
+      "author": "Ben Tossell",
+      "is_saved": false,
+      "saved_at": null
+    },
+    {
+      "id": "d5f7db556079222a",
+      "source": {
+        "id": "bens_bites",
+        "name": "Ben's Bites",
+        "badge_color": "#FFB9CD"
+      },
+      "title": "The first GPT-6 model",
+      "url": "https://www.bensbites.com/p/the-first-gpt-6-model",
+      "summary": "and what I'm building with it Hey folks, So Astra is out and, in my experience, a token-hungry monster of a model&#8230; I was playing around with it over the weekend and burned through 4Bn tokens and built&#8230;nothing really. I also wast...",
+      "published_at": "2026-09-08T13:03:52+00:00",
+      "released_date": "Sep 08, 2026",
+      "released_time": "13:03 UTC",
+      "released_full": "Sep 08, 2026 \u2022 13:03 UTC",
+      "is_last_24h": false,
+      "tags": [
+        "Agents",
+        "LLMs",
+        "Robotics",
+        "Industry"
+      ],
+      "reading_time_mins": 4,
+      "thumbnail_url": "https://substackcdn.com/image/fetch/$s_!BNF2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7bc26220-0715-48e6-8949-109834159d06_1893x1379.png",
+      "author": "Ben Tossell",
+      "is_saved": false,
+      "saved_at": null
+    },
+    {
+      "id": "8175048030ded19a",
+      "source": {
+        "id": "bens_bites",
+        "name": "Ben's Bites",
+        "badge_color": "#FFB9CD"
+      },
+      "title": "Scraping 107M rows of data to build this",
+      "url": "https://www.bensbites.com/p/scraping-107m-rows-of-data-to-build",
+      "summary": "Ben's session #5 Hello again :) sorry for the delay (agents + video exports!) This is one of the bigger things I've built. I scraped 107 million rows of UK council spending data and built an &#8216;Apple Maps' to see what each council spent...",
+      "published_at": "2026-09-04T14:56:17+00:00",
+      "released_date": "Sep 04, 2026",
+      "released_time": "14:56 UTC",
+      "released_full": "Sep 04, 2026 \u2022 14:56 UTC",
+      "is_last_24h": false,
+      "tags": [
+        "Agents",
+        "Industry"
+      ],
+      "reading_time_mins": 4,
+      "thumbnail_url": "https://substackcdn.com/image/fetch/$s_!Sa3A!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F699a3365-f83b-4399-8083-70a4c247981e_1602x1156.png",
+      "author": "Ben Tossell",
+      "is_saved": false,
+      "saved_at": null
+    },
+    {
+      "id": "40a9913f55937995",
+      "source": {
+        "id": "bens_bites",
+        "name": "Ben's Bites",
+        "badge_color": "#FFB9CD"
+      },
+      "title": "Fable 5.1",
+      "url": "https://www.bensbites.com/p/fable-51",
+      "summary": "where do my tokens go? Hey folks, I said Tuesday I was going on a bit of a tear with building stuff&#8230; I scraped the OpenRouter website to build this, which constantly updates bentossell.com/realtime-tokens \",\"username\":\"bentossell\",\"na...",
+      "published_at": "2026-09-03T13:03:56+00:00",
+      "released_date": "Sep 03, 2026",
+      "released_time": "13:03 UTC",
+      "released_full": "Sep 03, 2026 \u2022 13:03 UTC",
+      "is_last_24h": false,
+      "tags": [
+        "Agents",
+        "LLMs",
+        "Open Source",
+        "Industry"
+      ],
+      "reading_time_mins": 2,
+      "thumbnail_url": "https://substackcdn.com/image/fetch/$s_!8e_u!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHRKoO6bW4AAz7a6.jpg",
+      "author": "Ben Tossell",
+      "is_saved": false,
+      "saved_at": null
+    },
+    {
+      "id": "6bff2778e2fa248b",
+      "source": {
+        "id": "bens_bites",
+        "name": "Ben's Bites",
+        "badge_color": "#FFB9CD"
+      },
+      "title": "Build your ideas",
+      "url": "https://www.bensbites.com/p/build-your-ideas",
+      "summary": "Claude Code limits and Infinite Slop Hey folks, Back from a long weekend at home with my parents but before I went I started scraping data&#8230; The UK's councils (like US states) publish their spend data (for the most part). So I've scrap...",
+      "published_at": "2026-09-01T13:04:30+00:00",
+      "released_date": "Sep 01, 2026",
+      "released_time": "13:04 UTC",
+      "released_full": "Sep 01, 2026 \u2022 13:04 UTC",
+      "is_last_24h": false,
+      "tags": [
+        "Agents",
+        "LLMs",
+        "Robotics",
+        "Open Source"
+      ],
+      "reading_time_mins": 4,
+      "thumbnail_url": "https://substackcdn.com/image/fetch/$s_!giVE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcfee4e24-5aeb-47ca-a450-8660038bb349_1558x996.png",
+      "author": "Ben Tossell",
+      "is_saved": false,
+      "saved_at": null
+    },
+    {
+      "id": "5d1198e2c0c1ba03",
+      "source": {
+        "id": "bens_bites",
+        "name": "Ben's Bites",
+        "badge_color": "#FFB9CD"
+      },
+      "title": "How I built this",
+      "url": "https://www.bensbites.com/p/how-i-built-this-21f",
+      "summary": "Ben's session #4 Hello again :) I'm in my hometown Cardiff for the long weekend seeing family. I'm even playing padel for the first time, which is sacrilege as I'm a regular tennis player and padel mock-er. Wish me luck, I hope I don't like...",
+      "published_at": "2026-08-28T12:14:10+00:00",
+      "released_date": "Aug 28, 2026",
+      "released_time": "12:14 UTC",
+      "released_full": "Aug 28, 2026 \u2022 12:14 UTC",
+      "is_last_24h": false,
+      "tags": [
+        "Agents",
+        "LLMs"
+      ],
+      "reading_time_mins": 4,
+      "thumbnail_url": "https://substackcdn.com/image/fetch/$s_!GjCp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcee4c3df-b79e-45f7-a7d0-7684153e144f_3164x1946.png",
+      "author": "Ben Tossell",
+      "is_saved": false,
+      "saved_at": null
+    },
+    {
+      "id": "52cd6f64afa8aaf3",
+      "source": {
+        "id": "bens_bites",
+        "name": "Ben's Bites",
+        "badge_color": "#FFB9CD"
+      },
+      "title": "Who let the agents in",
+      "url": "https://www.bensbites.com/p/who-let-the-agents-in",
+      "summary": "It's you, and it's getting easier Hey folks, Most agents now use a browser to complete tasks for you. But a lot of the websites you want them to visit are behind a login page. There are a couple of ways around this. You could type in your d...",
+      "published_at": "2026-08-27T13:03:42+00:00",
+      "released_date": "Aug 27, 2026",
+      "released_time": "13:03 UTC",
+      "released_full": "Aug 27, 2026 \u2022 13:03 UTC",
+      "is_last_24h": false,
+      "tags": [
+        "Agents",
+        "LLMs",
+        "Robotics",
+        "Open Source"
+      ],
+      "reading_time_mins": 3,
+      "thumbnail_url": "https://substack-post-media.s3.amazonaws.com/public/images/77e4e2a7-b85f-4efa-8bfb-7148c242e836_1206x814.png",
+      "author": "Ben Tossell",
+      "is_saved": false,
+      "saved_at": null
+    },
+    {
+      "id": "8d9e0fb1cc8e873e",
+      "source": {
+        "id": "bens_bites",
+        "name": "Ben's Bites",
+        "badge_color": "#FFB9CD"
+      },
+      "title": "Agents on your mobile",
+      "url": "https://www.bensbites.com/p/agents-on-your-mobile",
+      "summary": "learn claude with claude Hey folks, I see so many posts &#8216;shipping by the beach' or when out with the kids on the weekend. Umm, good for you? I'm not sure it's the flex people think it is. Remember when we thought AI would take all our...",
+      "published_at": "2026-08-25T13:03:32+00:00",
+      "released_date": "Aug 25, 2026",
+      "released_time": "13:03 UTC",
+      "released_full": "Aug 25, 2026 \u2022 13:03 UTC",
+      "is_last_24h": false,
+      "tags": [
+        "Agents",
+        "LLMs",
+        "Robotics",
+        "Open Source"
+      ],
+      "reading_time_mins": 3,
+      "thumbnail_url": "https://substack-post-media.s3.amazonaws.com/public/images/4f8f81eb-a248-42ba-a701-d5be9d2618b6_794x614.png",
+      "author": "Ben Tossell",
+      "is_saved": false,
+      "saved_at": null
+    },
+    {
+      "id": "f9873c0d952a116e",
+      "source": {
+        "id": "bens_bites",
+        "name": "Ben's Bites",
+        "badge_color": "#FFB9CD"
+      },
+      "title": "How I built this",
+      "url": "https://www.bensbites.com/p/how-i-built-this",
+      "summary": "Ben's session #3 Hello again :) First trip taking the twins (3yrs) to the cinema tomorrow to watch Toy Story 5. I'm hopeful but may take their headphones because I think it'll be too loud for them. Hopefully enough sweets and popcorn can ke...",
+      "published_at": "2026-08-21T14:08:34+00:00",
+      "released_date": "Aug 21, 2026",
+      "released_time": "14:08 UTC",
+      "released_full": "Aug 21, 2026 \u2022 14:08 UTC",
+      "is_last_24h": false,
+      "tags": [
+        "Agents",
+        "LLMs"
+      ],
+      "reading_time_mins": 4,
+      "thumbnail_url": "https://substackcdn.com/image/fetch/$s_!iMJv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2c84f63-35e5-45ea-ad5e-8612443261a8_1584x1321.png",
+      "author": "Ben Tossell",
+      "is_saved": false,
+      "saved_at": null
+    },
+    {
+      "id": "4b96dd79aeabe145",
+      "source": {
+        "id": "bens_bites",
+        "name": "Ben's Bites",
+        "badge_color": "#FFB9CD"
+      },
+      "title": "Simple agents",
+      "url": "https://www.bensbites.com/p/simple-agents",
+      "summary": "Slack is the new IDE Hey folks, Results from the poll are in. 996 total votes. &#8216;Do you use a personal agent?' Not interested folks, r u ok? Just kidding. Personal agent's aren't much more than a number of files and tools connected to...",
+      "published_at": "2026-08-20T13:03:38+00:00",
+      "released_date": "Aug 20, 2026",
+      "released_time": "13:03 UTC",
+      "released_full": "Aug 20, 2026 \u2022 13:03 UTC",
+      "is_last_24h": false,
+      "tags": [
+        "Agents",
+        "LLMs",
+        "Open Source",
+        "AI Safety"
+      ],
+      "reading_time_mins": 3,
+      "thumbnail_url": "https://substack-post-media.s3.amazonaws.com/public/images/47f706f3-65c7-457a-a7a1-130352f58181_2238x1304.png",
+      "author": "Ben Tossell",
+      "is_saved": false,
+      "saved_at": null
+    },
+    {
+      "id": "3353e302ce704b0a",
+      "source": {
+        "id": "bens_bites",
+        "name": "Ben's Bites",
+        "badge_color": "#FFB9CD"
+      },
+      "title": "Do you use a personal agent?",
+      "url": "https://www.bensbites.com/p/do-you-use-a-personal-agent",
+      "summary": "Give AI a complete history of your desktop activity Hey folks, I want to know who uses agent products as a &#8216;personal agent'. ie organise stuff for you, things outside of work, handling email, doing stuff on your computer, etc. - answe...",
+      "published_at": "2026-08-18T13:01:18+00:00",
+      "released_date": "Aug 18, 2026",
+      "released_time": "13:01 UTC",
+      "released_full": "Aug 18, 2026 \u2022 13:01 UTC",
+      "is_last_24h": false,
+      "tags": [
+        "Agents",
+        "LLMs",
+        "Robotics",
+        "Open Source"
+      ],
+      "reading_time_mins": 3,
+      "thumbnail_url": "https://substack-post-media.s3.amazonaws.com/public/images/c5019f28-503d-46b9-97fc-d7dbc6e7b598_1594x924.png",
+      "author": "Ben Tossell",
+      "is_saved": false,
+      "saved_at": null
+    },
+    {
+      "id": "bb441845c4554fdd",
+      "source": {
+        "id": "bens_bites",
+        "name": "Ben's Bites",
+        "badge_color": "#FFB9CD"
+      },
+      "title": "Ben's session #2",
+      "url": "https://www.bensbites.com/p/bens-session-2",
+      "summary": "What is a personal agent? Hello again :) It's my wedding anniversary, so while you chew on this post, I'll be chewing through a delicious lunch in the sun. Last week I walked through a real agent session and explained the loop as we went. A...",
+      "published_at": "2026-08-14T13:04:03+00:00",
+      "released_date": "Aug 14, 2026",
+      "released_time": "13:04 UTC",
+      "released_full": "Aug 14, 2026 \u2022 13:04 UTC",
+      "is_last_24h": false,
+      "tags": [
+        "Agents",
+        "LLMs"
+      ],
+      "reading_time_mins": 3,
+      "thumbnail_url": "https://substack-post-media.s3.amazonaws.com/public/images/ad1b39d2-03cb-4d66-b6fe-2239d81ff4b6_1456x1168.webp",
+      "author": "Ben Tossell",
+      "is_saved": false,
+      "saved_at": null
+    }
+  ]
+}

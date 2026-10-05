@@ -1,0 +1,24 @@
+Colors
+
+Primary:
+#FFB9CD
+Secondary:
+#664A52
+Accent:
+#FFB9CD
+Background:
+#FFFFFF
+Text Primary:
+#000000
+Link:
+#FFE6E5
+Fonts
+
+CrumblSansFont(body)
+Typography
+
+primary: CrumblSansFont
+heading: CrumblSansFont
+h1: 100px
+h2: 100px
+body: 36px
